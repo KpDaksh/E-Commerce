@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="nav_bar">
       <nav className="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm">
         <div className="container">
-        <div className="img"><a href="https://www.Almabetter.com/" target="_blank" ><img src={image} alt="Almabetter"/></a></div>
+        <div className="img"><a href="https://github.com/KpDaksh" target="_blank" ><img src={image} alt="GitHub"/></a></div>
           <NavLink className="navbar-brand fw-bold fs-4" to="/">
             LA COLLECTION
           </NavLink>
